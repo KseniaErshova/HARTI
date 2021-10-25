@@ -4,5 +4,6 @@ This is a repository that contains Python code for statistical analysis that was
 The database used in this analysis as well as data dictionary can be found here: https://doi.org/10.5281/zenodo.5597750
 
 Files include:
-1. HARTI-[1-6]*.ipynb files contain python code for all steps of data analysis included in the article
-5. helpers.py is a list of used libraries and functions
+1. _HARTI-[1-6]*.ipynb_ files contain python code for all steps of data analysis included in the article
+2. _helpers.py_ is a list of used libraries and functions
+3. antibiotics_class.json file containes a dictionary to assign antibiotic class to a antibiotic drug name. The file is used in _HARTI-1-Data.ipynb_ notebook.
