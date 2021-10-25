@@ -1,9 +1,8 @@
 # HARTI
-This is a repository that contains data sets and python code for statistical analysis that was performed during the research study. Study results are summarized in the paper titled "The incidence, outcomes, etiology, and prevention of healthcare-associated respiratory infections are different between ventilated and non-ventilated neurocritical care patients".
+This is a repository that contains Python code for statistical analysis that was performed during the research study. Study results are summarized in the article titled "The Incidence And Outcomes Of Healthcare-associated Respiratory Tract Infections In Non-ventilated Neurocritical Care Patients: Results Of A 10-year Prospective Cohort Study".
+
+The database used in this analysis as well as data dictionary can be found here: https://doi.org/10.5281/zenodo.5597750
 
 Files include:
-1. VAE_Data_Main_0821_1338.pkl is the main data set in binary format. This data set is also available in permanent online repository at https://doi.org/10.5281/zenodo.3995319
-2. Microbiology_full_0821_1021.pkl is data set with microbiology test results
-3. Data_Dictionary_MainDB.csv contains a description of all variables from main data set
-4. HARTI-[1-6]_*.ipynb files contain python code for all steps of data analysis included in the article
+1. HARTI-[1-6]*.ipynb files contain python code for all steps of data analysis included in the article
 5. helpers.py is a list of used libraries and functions
