@@ -6,4 +6,4 @@ The database used in this analysis as well as data dictionary can be found here:
 Files include:
 1. _HARTI-[1-6]*.ipynb_ files contain python code for all steps of data analysis included in the article
 2. _helpers.py_ is a list of used libraries and functions
-3. antibiotics_class.json file containes a dictionary to assign antibiotic class to a antibiotic drug name. The file is used in _HARTI-1-Data.ipynb_ notebook.
+3. _antibiotics_class.json_ file containes a dictionary to assign antibiotic class to a antibiotic drug name. The file is used in _HARTI-1-Data.ipynb_ notebook.
